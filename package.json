@@ -1,0 +1,14 @@
+{
+  "name": "tumnak-proxy",
+  "version": "2.0.0",
+  "type": "module",
+  "description": "High-Performance Proxy Server for Tumnak Series (Render & Railway)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {}
+}
